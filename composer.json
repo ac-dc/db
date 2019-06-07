@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/db",
+    "name": "ac-dc/db",
     "type": "library",
     "description": "Yii DataBase Library",
     "keywords": [
@@ -65,7 +65,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "yiisoft/yii-core": "^3.0@dev",
+        "ac-dc/yii-core": "*",
         "yiisoft/arrays": "^3.0@dev",
         "yiisoft/strings": "^3.0@dev",
         "ext-pdo": "*"
